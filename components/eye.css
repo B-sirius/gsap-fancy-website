@@ -1,0 +1,4 @@
+.eye {
+  transform-origin: center;
+  transition: 0.5s ease, opacity 0.3s;
+}
